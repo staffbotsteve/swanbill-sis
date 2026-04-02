@@ -1,0 +1,38 @@
+{
+  "project": "SwanBill School Information System",
+  "lastUpdated": "2026-04-02T13:37:00Z",
+  "agents": [
+    {"systemName": "PowerSchool", "category": "SIS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-sis-01"},
+    {"systemName": "Blackbaud Education Mgmt", "category": "SIS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-sis-02"},
+    {"systemName": "Veracross", "category": "SIS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-sis-03"},
+    {"systemName": "Schoology", "category": "LMS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-lms-01"},
+    {"systemName": "Google Classroom", "category": "LMS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-lms-02"},
+    {"systemName": "Canvas", "category": "LMS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-lms-03"},
+    {"systemName": "Edpuzzle", "category": "LMS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-lms-04"},
+    {"systemName": "Kahoot!", "category": "LMS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-lms-05"},
+    {"systemName": "Turnitin", "category": "LMS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-lms-06"},
+    {"systemName": "Grammarly for Education", "category": "LMS", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-lms-07"},
+    {"systemName": "Naviance", "category": "Advancement_Student-Success", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-adv-01"},
+    {"systemName": "SCOIR", "category": "Advancement_Student-Success", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-adv-02"},
+    {"systemName": "Raiser's Edge", "category": "Advancement_Student-Success", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-adv-03"},
+    {"systemName": "Blackbaud CRM", "category": "Advancement_Student-Success", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-adv-04"},
+    {"systemName": "HubSpot", "category": "Advancement_Student-Success", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-adv-05"},
+    {"systemName": "FACTS Tuition", "category": "Finance", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-fin-01"},
+    {"systemName": "Smart Tuition", "category": "Finance", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-fin-02"},
+    {"systemName": "TADS", "category": "Finance", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-fin-03"},
+    {"systemName": "QuickBooks", "category": "Finance", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-fin-04"},
+    {"systemName": "Sage Intacct", "category": "Finance", "status": "complete", "currentTask": "✅", "progress": 100, "agentId": "scout-fin-05"},
+    {"systemName": "PayPal/Stripe + Square + PermissionClick + Acceptiva + TicketSpice + SchoolAdmin + Finalsite Enrollment", "category": "Finance", "status": "running", "currentTask": "Researching 7 payment/admissions systems", "progress": 60, "agentId": "scout-fin2-adm"},
+    {"systemName": "Finalsite + Blackbaud Website + Edlio + Constant Contact + Mailchimp + ParentSquare + Remind + Zoom + Slack", "category": "Marketing", "status": "running", "currentTask": "Researching 9 marketing/comms systems", "progress": 50, "agentId": "scout-mkt-com"},
+    {"systemName": "Jamf + Google Workspace + MS365 + Clever + ClassLink + Eventbrite + GoFan + Hometown + ArbiterSports + MaxPreps + Hudl + Final Forms", "category": "IT", "status": "running", "currentTask": "Researching 12 IT/events/athletics systems", "progress": 35, "agentId": "scout-it-ath"},
+    {"systemName": "SurveyMonkey + Tableau + Power BI", "category": "Analytics", "status": "running", "currentTask": "Researching 3 analytics systems", "progress": 30, "agentId": "scout-ana"}
+  ],
+  "log": [
+    {"time": "13:33", "agent": "scout-sis-03", "message": "✅ Veracross COMPLETE."},
+    {"time": "13:34", "agent": "scout-lms-batch2", "message": "✅ Kahoot + Turnitin + Grammarly COMPLETE."},
+    {"time": "13:35", "agent": "scout-lms-batch1", "message": "✅ Schoology + Google Classroom + Canvas + Edpuzzle COMPLETE."},
+    {"time": "13:36", "agent": "scout-adv-batch", "message": "✅ All 5 Advancement specs COMPLETE."},
+    {"time": "13:37", "agent": "scout-fin-batch1", "message": "✅ FACTS + Smart Tuition + TADS + QuickBooks + Sage Intacct COMPLETE."},
+    {"time": "13:37", "agent": "Boss", "message": "📊 20/50 systems complete. 4 agents on remaining 30. Home stretch."}
+  ]
+}
